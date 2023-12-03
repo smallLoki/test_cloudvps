@@ -1,0 +1,14 @@
+{
+  "email": {
+    "login": "odnokarta.app@gmail.com",
+    "password": "310720odnokartaZZ",
+    "name": "odnokarta.app@gmail.com",
+    "port": 465,
+    "host": "smtp.gmail.com"
+  },
+  "sms": {
+    "login": "kostukovich.s@extbel.com",
+    "apikey": "iqi88vb339",
+    "name": "Odnokarta"
+  }
+}
